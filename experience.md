@@ -21,4 +21,4 @@ order: 3
 9. 就读于院校: *2017年-2019年*
 10. 服役于军队: *2014年-2016年*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+<!-- source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books) -->
